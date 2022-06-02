@@ -2,9 +2,9 @@
 
 /**
  *
- *   *  * main - Entry point
+ *   *  * main - prints the size of various types
  *    *   *
- *     *    * Return: Always 0 (Success)
+ *     *    * Return: 0 if exited properly, non-zeron otherwise
  *      * */
 
 int main(void)
