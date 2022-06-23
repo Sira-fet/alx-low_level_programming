@@ -1,1 +1,1 @@
-this is aREADME.md for c functions and nested loops
+this is a README.md for c functions and nested loops
